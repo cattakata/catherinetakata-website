@@ -1,0 +1,14 @@
+name: "."
+title: "Catherine Takata"
+description: |
+  Catherine Takata
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: Cat
+      href: cat.html
+output: distill::distill_article

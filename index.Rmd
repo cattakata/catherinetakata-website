@@ -1,0 +1,19 @@
+---
+title: "Catherine Takata"
+image: "catheadshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I am a master's candidate at the Bren School of Environmental Science & Management. 
+Currently, I am studying Coastal Marine Resources Management. 
