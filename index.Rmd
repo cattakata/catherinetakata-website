@@ -1,19 +1,29 @@
 ---
 title: "Catherine Takata"
 image: "catheadshot.jpg"
+
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+    - text: "CV"
+      href: csv.html
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/catherine-takata-979657204/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/cattakata"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ctakata@ucsb.edu"
 output:
   postcards::jolla
 site: distill::distill_website
 ---
  
-I am a master's candidate at the Bren School of Environmental Science & Management. 
-Currently, I am studying Coastal Marine Resources Management. 
+Welcome! My name is Cat and I am a master's candidate at the Bren School of Environmental Science & Management. I am studying Coastal Marine Resources Management. 

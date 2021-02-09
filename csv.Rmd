@@ -1,0 +1,12 @@
+---
+layout: CV/Resume
+output: vitae::markdowncv
+---
+
+#Isaac Newton
+Physicst blah blah
+
+<div id="webaddress">
+<a href = "www.google.com">google</a>
+</div>
+
