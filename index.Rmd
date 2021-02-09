@@ -9,7 +9,7 @@ navbar:
     - text: "About me"
       href: ./docs/about.html
     - text: "Blog"
-      href: blog.html
+      href: ./docs/blog.html
     - text: "CV"
       href: csv.html
 links:
